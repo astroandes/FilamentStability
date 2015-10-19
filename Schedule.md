@@ -6,7 +6,7 @@
 Main discussed points.
 
 * The main goal is to study the stability of cold filaments
-  through a hot shock heated halo gas.
+  through hot shock heated halo gas.
 * We want to move from theoretical-analitycal insights to controlled
   experiments. From that we want so suggest possible impact on
   galactic populations.
