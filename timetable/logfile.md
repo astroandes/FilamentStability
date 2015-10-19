@@ -25,6 +25,7 @@ Main discussed points.
   quasar](http://arxiv.org/abs/1401.4469) 
 
 For next week, S. will read about
+
     * Radiative cooling
     * Shock stability
     * Typical temperatures for cold and hot phases of the gas
