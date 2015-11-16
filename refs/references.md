@@ -1,8 +1,13 @@
+Recent Dekel et al. work
+=========================
+
 * [Filament instability work by Nir Mandelker](http://www.arcetri.astro.it/igm50/talks_all/mandelker.pdf)
-
 * [Filament instability work by Dekel](http://www.arcetri.astro.it/igm50/talks_all/dekel_intro.pdf)
-
 * [Filament instability work by Birnboim](http://www.mpia.de/~QNQ/Slides/YuvalBirnboim.pdf)
+* [Filament instability work by Padnos (slides)](http://hipacc.ucsc.edu/PDF/2015SCGW/150818_5_Padnos_14p.pdf)
+* [Filament instability work by Padnos (video)](https://www.youtube.com/watch?v=8s3Sv6l0NYo)
+
+
 ---
 
 * [ Galaxy Bimodality due to Cold Flows and Shock Heating](http://arxiv.org/abs/astro-ph/0412300). First reference with basic filament parameters.
