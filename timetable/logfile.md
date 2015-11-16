@@ -1,5 +1,12 @@
 # Schedule
 
+## 16.11.2015
+(Sebastian + Jaime on Skype)
+
+* A. Dekel is doing similar work. Some references will be linked.
+* Jaime will start putting together a document as a base for the first paper. 
+* Sebastian will ask about the ways to change a the refinement conditions in arepo.
+
 ## 19.10.2015
 (Sebastian + Jaime on Skype)
 
