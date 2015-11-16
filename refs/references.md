@@ -1,3 +1,7 @@
+* [Filament instability work by Nir Mandelker](http://www.arcetri.astro.it/igm50/talks_all/mandelker.pdf)
+
+* [Filament instability work by Dekel](http://www.arcetri.astro.it/igm50/talks_all/dekel_intro.pdf)
+---
 
 * [ Galaxy Bimodality due to Cold Flows and Shock Heating](http://arxiv.org/abs/astro-ph/0412300). First reference with basic filament parameters.
 
